@@ -1,0 +1,22 @@
+div.result {
+    margin-top: 4rem;
+}
+
+div.result span {
+    display: block;
+    font-size: 1.9rem;
+    text-align: center;
+    margin: 1rem;
+    color: white;
+}
+
+div.pic {
+    display: flex;
+    align-items: center;
+}
+
+div.pic img {
+    width: 10rem;
+    margin: 0 auto;
+    display: block;
+}
