@@ -56,3 +56,9 @@ div.form-wrap button::after {
 div.form-wrap button:hover::after {
     width: 100%;
 }
+
+@media (max-width: 960px) {
+    div.form-wrap {
+        width: 70%;
+    }
+}
