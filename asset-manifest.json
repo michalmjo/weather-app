@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.8942a4d3.chunk.css",
+    "main.css": "/weather-app/static/css/main.d5e03f35.chunk.css",
     "main.js": "/weather-app/static/js/main.d857bbd5.chunk.js",
     "main.js.map": "/weather-app/static/js/main.d857bbd5.chunk.js.map",
     "runtime-main.js": "/weather-app/static/js/runtime-main.1d25d8d3.js",
@@ -10,7 +10,7 @@
     "static/js/3.fef3112d.chunk.js": "/weather-app/static/js/3.fef3112d.chunk.js",
     "static/js/3.fef3112d.chunk.js.map": "/weather-app/static/js/3.fef3112d.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "static/css/main.8942a4d3.chunk.css.map": "/weather-app/static/css/main.8942a4d3.chunk.css.map",
+    "static/css/main.d5e03f35.chunk.css.map": "/weather-app/static/css/main.d5e03f35.chunk.css.map",
     "static/js/2.dcbb3c92.chunk.js.LICENSE.txt": "/weather-app/static/js/2.dcbb3c92.chunk.js.LICENSE.txt",
     "static/media/App.css": "/weather-app/static/media/TloDoAppWeather.98072da3.png",
     "static/media/fog.2746b71a.png": "/weather-app/static/media/fog.2746b71a.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d25d8d3.js",
     "static/js/2.dcbb3c92.chunk.js",
-    "static/css/main.8942a4d3.chunk.css",
+    "static/css/main.d5e03f35.chunk.css",
     "static/js/main.d857bbd5.chunk.js"
   ]
 }
